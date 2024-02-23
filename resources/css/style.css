@@ -1,6 +1,7 @@
 body{
     display: flex;
     align-items: center;
+    text-align: center;
     justify-content: center;
     background-color: black;
     /* Set to the height of the viewport */
@@ -16,16 +17,17 @@ section {
     text-align: center; /* Optional: Center text within the section */
 }
 .img{
-    align-items: ;
+    align-items: center;
 }
 h1{
 color: white;
 }
-h2{
+h2,text{
 color: white;
 }
 .a{
 color: aqua;
+text-align: center;
 }
 .b{
 color: gray;
